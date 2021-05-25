@@ -5,3 +5,5 @@ Colorful system info, get your Linux distro, kernel, kernel version and username
 
 # TR
 Renkli sistem bilgisi, Linux dağıtımınızı, çekirdeğinizi, çekirdek sürümünüzü ve kullanıcı adınızı öğrenin. Ama 🌈li bir yolda. :)
+
+![](image1.png)
