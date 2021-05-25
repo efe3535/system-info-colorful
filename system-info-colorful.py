@@ -1,7 +1,7 @@
 import platform
 from bicim import *
 
-os = " ".join(platform.dist()).capitalize()
+os = " ".join(platform.linux_distribution()).capitalize()
 system = platform.system()
 kernel_version = platform.release()
 username = platform.uname()
