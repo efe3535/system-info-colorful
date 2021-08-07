@@ -9,4 +9,4 @@ kernel_version = platform.release()
 # username = platform.uname() Shows computer name instead of username. 
 username = getpass.getuser()
 
-print(f"Merhaba, {kirmizi} {username.node} {sıfır}\n{mavi}bu işletim sistemini: {os},{sıfır}\n{pembe}bu çekirdeği: {system},{sıfır}\n{yesil}bu çekirdek versiyonunu: {kernel_version}, {sıfır}\nkullanıyor olmalısın.")
+print(f"Merhaba, {kirmizi} {username} {sıfır}\n{mavi}bu işletim sistemini: {os},{sıfır}\n{pembe}bu çekirdeği: {system},{sıfır}\n{yesil}bu çekirdek versiyonunu: {kernel_version}, {sıfır}\nkullanıyor olmalısın.")
